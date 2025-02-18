@@ -13,8 +13,8 @@ The **Personalized Health Assistant** is a machine learning-based application th
 ## 📂 Project Structure
 ```
 📁 Personalized_Health_Assistant/
-│──
-│── 
+│──Personalized_Health_Assistant.ipynb #python code for build models
+│── Symptom2Disease.csv        #dataset
 │── app.py                     # Flask API for disease prediction
 │── index.html                  # Frontend UI for user interaction
 │── disease_prediction_model.pkl # Trained machine learning model
